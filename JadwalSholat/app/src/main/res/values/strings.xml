@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jadwal Sholat</string>
+    <string name="select_city">Pilih kota</string>
+    <string name="setting">Setting</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="find_city">Cari kota</string>
+    <string name="setting_header">Atur default kota mu</string>
+    <string name="ok">OK</string>
+</resources>
