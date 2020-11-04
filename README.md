@@ -1,13 +1,10 @@
 # Android Project Android
 
 **Name :** Jadwal Sholat
-<br>
-**Libray**
-
-- 'com.android.volley:volley:1.1.1'
-- 'com.jakewharton.threetenabp:threetenabp:1.2.4'
-- 'com.github.ganfra:material-spinner:2.0.0'
 
 **API Server**
 
-- https://fathimah.docs.apiary.io
+-   https://fathimah.docs.apiary.io
+
+**Screenshot**
+![screenshot](https://raw.githubusercontent.com/zalviandyr/JadwalSholat-Android/master/Screenshot/Jadwal%20Sholat%20-%20Android.jpg)
